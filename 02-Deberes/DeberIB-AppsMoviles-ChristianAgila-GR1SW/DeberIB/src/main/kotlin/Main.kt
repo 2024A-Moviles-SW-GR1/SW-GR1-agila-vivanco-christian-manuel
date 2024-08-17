@@ -6,6 +6,16 @@ import java.time.format.DateTimeFormatter
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 fun main() {
+    //tipo variables
+
+    val inmutable = "Christian";
+
+    var mutable = "Agila"
+    mutable = "Agila";
+
+
+
+
 
     val pathComponente = "C:\\Users\\Christian\\SW-GR1-agila-vivanco-christian-manuel\\02-Deberes\\DeberIB-AppsMoviles-ChristianAgila-GR1SW\\DeberIB\\src\\main\\data\\componente.txt"
     val pathComputador = "C:\\Users\\Christian\\SW-GR1-agila-vivanco-christian-manuel\\02-Deberes\\DeberIB-AppsMoviles-ChristianAgila-GR1SW\\DeberIB\\src\\main\\data\\computador.txt"
@@ -173,4 +183,6 @@ fun main() {
         }
     }
 }
+
+
 
