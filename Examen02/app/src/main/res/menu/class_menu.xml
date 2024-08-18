@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mi_class_students"
+        android:title="Ver componentes" />
+    <item
+        android:id="@+id/mi_edit_class"
+        android:title="Editar componentes" />
+    <item
+        android:id="@+id/mi_delete_class"
+        android:title="Eliminar componente" />
+</menu>
